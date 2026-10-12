@@ -1,5 +1,6 @@
 data/
 output/
+reports/
 *.csv
 __pycache__/
 
